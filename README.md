@@ -2,7 +2,7 @@
 
 An all-powerful toolset for Wavi.
 
-[![Build Status](https://travis-ci.org/wavipay/sentinel.svg?branch=master)](https://travis-ci.org/wavipay/sentinel)
+[![Build Status](https://travis-ci.org/kushirikiana/sentinel/sentinel.svg?branch=master)](https://travis-ci.org/kushirikiana/sentinel/sentinel)
 
 Sentinel is an autonomous agent for persisting, processing and automating Wavi V12.1 governance objects and tasks, and for expanded functions in the upcoming Wavi V13 release (Evolution).
 
@@ -31,7 +31,7 @@ Make sure the local Wavi daemon running is at least version 12.1 (120100)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/wavipay/sentinel.git && cd sentinel
+    $ git clone https://github.com/kushirikiana/sentinel/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
@@ -67,11 +67,11 @@ To view debug output, set the `SENTINEL_DEBUG` environment variable to anything 
 
 ## Contributing
 
-Please follow the [WaviCore guidelines for contributing](https://github.com/wavipay/wavi/blob/v0.12.1.x/CONTRIBUTING.md).
+Please follow the [WaviCore guidelines for contributing](https://github.com/kushirikiana/sentinel/wavi/blob/v0.12.1.x/CONTRIBUTING.md).
 
 Specifically:
 
-* [Contributor Workflow](https://github.com/wavipay/wavi/blob/v0.12.1.x/CONTRIBUTING.md#contributor-workflow)
+* [Contributor Workflow](https://github.com/kushirikiana/sentinel/wavi/blob/v0.12.1.x/CONTRIBUTING.md#contributor-workflow)
 
     To contribute a patch, the workflow is as follows:
 
