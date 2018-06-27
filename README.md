@@ -2,7 +2,7 @@
 
 An all-powerful toolset for Wavi.
 
-[![Build Status](https://travis-ci.org/kushirikiana/sentinel/sentinel.svg?branch=master)](https://travis-ci.org/kushirikiana/sentinel/sentinel)
+[![Build Status](https://travis-ci.org/kushirikiana/sentinel.svg?branch=master)](https://travis-ci.org/kushirikiana/sentinel)
 
 Sentinel is an autonomous agent for persisting, processing and automating Wavi V12.1 governance objects and tasks, and for expanded functions in the upcoming Wavi V13 release (Evolution).
 
@@ -31,7 +31,7 @@ Make sure the local Wavi daemon running is at least version 12.1 (120100)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/kushirikiana/sentinel/sentinel.git && cd sentinel
+    $ git clone https://github.com/kushirikiana/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
